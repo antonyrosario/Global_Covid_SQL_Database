@@ -1,0 +1,28 @@
+Vaccine_name,Vaccine_id
+ IMBCAMS,V01
+ KCONVAC,V02
+ Medicago,V03
+ Sinopharm/Wuhan,V04
+ Sinovac,V05
+ Soberana Plus,V06
+ Soberana02,V07
+ Sputnik Light,V08
+ Sputnik V,V09
+ Turkovac,V10
+ Valneva,V11
+ ZF2001,V12
+Abdala,V13
+CanSino,V14
+Corbevax,V15
+Covaxin,V16
+COVIran Barekat,V17
+EpiVacCorona,V18
+Johnson&Johnson,V19
+KoviVac/Chumakov,V20
+Medigen,V21
+Moderna,V22
+Novavax,V23
+Oxford/AstraZeneca,V24
+Pfizer/BioNTech,V25
+QazVac,V26
+Sinopharm/Beijing,V27

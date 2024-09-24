@@ -1,0 +1,934 @@
+iso_code,last_observation_date,list_of_vaccines_used,source_name,source_website
+AFG,24-10-22,V14,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V16,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V19,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V22,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V24,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V25,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V27,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V05,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V08,World Health Organization,https://covid19.who.int/
+AFG,24-10-22,V09,World Health Organization,https://covid19.who.int/
+ALB,16-10-22,V24,World Health Organization,https://covid19.who.int/
+ALB,16-10-22,V25,World Health Organization,https://covid19.who.int/
+ALB,16-10-22,V05,World Health Organization,https://covid19.who.int/
+ALB,16-10-22,V09,World Health Organization,https://covid19.who.int/
+DZA,04-09-22,V24,World Health Organization,https://covid19.who.int/
+DZA,04-09-22,V27,World Health Organization,https://covid19.who.int/
+DZA,04-09-22,V05,World Health Organization,https://covid19.who.int/
+DZA,04-09-22,V09,World Health Organization,https://covid19.who.int/
+AND,16-10-22,V22,World Health Organization,https://covid19.who.int/
+AND,16-10-22,V24,World Health Organization,https://covid19.who.int/
+AND,16-10-22,V25,World Health Organization,https://covid19.who.int/
+AGO,16-10-22,V24,World Health Organization,https://covid19.who.int/
+AIA,21-10-22,V24,World Health Organization,https://covid19.who.int/
+AIA,21-10-22,V25,World Health Organization,https://covid19.who.int/
+ATG,16-09-22,V19,Ministry of Health,https://covid19.who.int/
+ATG,16-09-22,V24,Ministry of Health,https://covid19.who.int/
+ATG,16-09-22,V25,Ministry of Health,https://covid19.who.int/
+ATG,16-09-22,V27,Ministry of Health,https://covid19.who.int/
+ATG,16-09-22,V09,Ministry of Health,https://covid19.who.int/
+ARG,25-10-22,V14,Ministry of Health,https://covidstats.com.ar/
+ARG,25-10-22,V22,Ministry of Health,https://covidstats.com.ar/
+ARG,25-10-22,V24,Ministry of Health,https://covidstats.com.ar/
+ARG,25-10-22,V25,Ministry of Health,https://covidstats.com.ar/
+ARG,25-10-22,V27,Ministry of Health,https://covidstats.com.ar/
+ARG,25-10-22,V09,Ministry of Health,https://covidstats.com.ar/
+ARM,22-05-22,V22,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V24,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V25,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V27,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V04,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V05,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V08,World Health Organization,https://covid19.who.int/
+ARM,22-05-22,V09,World Health Organization,https://covid19.who.int/
+ABW,26-10-22,V25,Government of Aruba,https://www.government.aw
+AUS,29-09-22,V22,Government of Australia via CovidBaseAU,https://covidbaseau.com/
+AUS,29-09-22,V23,Government of Australia via CovidBaseAU,https://covidbaseau.com/
+AUS,29-09-22,V24,Government of Australia via CovidBaseAU,https://covidbaseau.com/
+AUS,29-09-22,V25,Government of Australia via CovidBaseAU,https://covidbaseau.com/
+AUT,25-10-22,V19,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv
+AUT,25-10-22,V22,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv
+AUT,25-10-22,V23,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv
+AUT,25-10-22,V24,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv
+AUT,25-10-22,V25,European CDC,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline_v202206.csv
+AZE,28-08-22,V24,Government of Azerbaijan,https://koronavirusinfo.az
+AZE,28-08-22,V25,Government of Azerbaijan,https://koronavirusinfo.az
+AZE,28-08-22,V05,Government of Azerbaijan,https://koronavirusinfo.az
+AZE,28-08-22,V09,Government of Azerbaijan,https://koronavirusinfo.az
+BHS,21-10-22,V19,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BHS,21-10-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BHS,21-10-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BHR,26-10-22,V24,Ministry of Health,https://healthalert.gov.bh/en/
+BHR,26-10-22,V25,Ministry of Health,https://healthalert.gov.bh/en/
+BHR,26-10-22,V27,Ministry of Health,https://healthalert.gov.bh/en/
+BHR,26-10-22,V09,Ministry of Health,https://healthalert.gov.bh/en/
+BGD,26-10-22,V19,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BGD,26-10-22,V22,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BGD,26-10-22,V24,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BGD,26-10-22,V25,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BGD,26-10-22,V27,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BGD,26-10-22,V05,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+BRB,14-10-22,V19,Ministry of Health,https://covid19.who.int/
+BRB,14-10-22,V24,Ministry of Health,https://covid19.who.int/
+BRB,14-10-22,V25,Ministry of Health,https://covid19.who.int/
+BRB,14-10-22,V27,Ministry of Health,https://covid19.who.int/
+BLR,16-10-22,V20,World Health Organization,https://covid19.who.int/
+BLR,16-10-22,V27,World Health Organization,https://covid19.who.int/
+BLR,16-10-22,V08,World Health Organization,https://covid19.who.int/
+BLR,16-10-22,V09,World Health Organization,https://covid19.who.int/
+BEL,22-10-22,V19,Sciensano,https://epistat.wiv-isp.be/covid/
+BEL,22-10-22,V22,Sciensano,https://epistat.wiv-isp.be/covid/
+BEL,22-10-22,V23,Sciensano,https://epistat.wiv-isp.be/covid/
+BEL,22-10-22,V24,Sciensano,https://epistat.wiv-isp.be/covid/
+BEL,22-10-22,V25,Sciensano,https://epistat.wiv-isp.be/covid/
+BLZ,21-10-22,V19,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BLZ,21-10-22,V24,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BLZ,21-10-22,V25,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BLZ,21-10-22,V27,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BEN,16-10-22,V19,Ministry of Health,https://covid19.who.int/
+BEN,16-10-22,V24,Ministry of Health,https://covid19.who.int/
+BEN,16-10-22,V25,Ministry of Health,https://covid19.who.int/
+BEN,16-10-22,V05,Ministry of Health,https://covid19.who.int/
+BMU,08-07-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BMU,08-07-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+BTN,23-10-22,V22,World Health Organization,https://covid19.who.int/
+BTN,23-10-22,V24,World Health Organization,https://covid19.who.int/
+BTN,23-10-22,V25,World Health Organization,https://covid19.who.int/
+BTN,23-10-22,V27,World Health Organization,https://covid19.who.int/
+BOL,07-10-22,V19,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BOL,07-10-22,V24,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BOL,07-10-22,V25,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BOL,07-10-22,V27,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BOL,07-10-22,V09,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/
+BES,01-09-21,V22,World Health Organization,https://www.rivm.nl/sites/default/files/2021-09/COVID-19_website_rapport_eilanden_engels_35_20210902_1409.pdf
+BES,01-09-21,V25,World Health Organization,https://www.rivm.nl/sites/default/files/2021-09/COVID-19_website_rapport_eilanden_engels_35_20210902_1409.pdf
+BIH,29-01-22,V24,World Health Organization,https://covid19.who.int/
+BIH,29-01-22,V25,World Health Organization,https://covid19.who.int/
+BIH,29-01-22,V05,World Health Organization,https://covid19.who.int/
+BIH,29-01-22,V09,World Health Organization,https://covid19.who.int/
+BWA,02-10-22,V16,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BWA,02-10-22,V19,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BWA,02-10-22,V22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BWA,02-10-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BWA,02-10-22,V25,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BWA,02-10-22,V05,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+BRA,26-10-22,V19,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io
+BRA,26-10-22,V24,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io
+BRA,26-10-22,V25,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io
+BRA,26-10-22,V05,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io
+VGB,16-09-22,V19,World Health Organization,https://covid19.who.int/
+VGB,16-09-22,V24,World Health Organization,https://covid19.who.int/
+BRN,07-10-22,V19,World Health Organization,https://covid19.who.int/
+BRN,07-10-22,V22,World Health Organization,https://covid19.who.int/
+BRN,07-10-22,V24,World Health Organization,https://covid19.who.int/
+BRN,07-10-22,V25,World Health Organization,https://covid19.who.int/
+BRN,07-10-22,V27,World Health Organization,https://covid19.who.int/
+BGR,26-10-22,V19,Ministry of Health,https://coronavirus.bg/bg/statistika
+BGR,26-10-22,V22,Ministry of Health,https://coronavirus.bg/bg/statistika
+BGR,26-10-22,V24,Ministry of Health,https://coronavirus.bg/bg/statistika
+BGR,26-10-22,V25,Ministry of Health,https://coronavirus.bg/bg/statistika
+BFA,02-10-22,V19,World Health Organization,https://covid19.who.int/
+BFA,02-10-22,V24,World Health Organization,https://covid19.who.int/
+BFA,02-10-22,V27,World Health Organization,https://covid19.who.int/
+BDI,16-10-22,V19,World Health Organization,https://covid19.who.int/
+BDI,16-10-22,V27,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V19,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V22,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V24,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V25,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V27,World Health Organization,https://covid19.who.int/
+KHM,14-10-22,V05,World Health Organization,https://covid19.who.int/
+CMR,09-10-22,V19,World Health Organization,https://covid19.who.int/
+CMR,09-10-22,V24,World Health Organization,https://covid19.who.int/
+CMR,09-10-22,V25,World Health Organization,https://covid19.who.int/
+CMR,09-10-22,V27,World Health Organization,https://covid19.who.int/
+CAN,26-10-22,V19,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CAN,26-10-22,V03,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CAN,26-10-22,V22,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CAN,26-10-22,V23,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CAN,26-10-22,V24,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CAN,26-10-22,V25,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+CPV,25-09-22,V22,World Health Organization,https://covid19.who.int/
+CPV,25-09-22,V24,World Health Organization,https://covid19.who.int/
+CPV,25-09-22,V25,World Health Organization,https://covid19.who.int/
+CPV,25-09-22,V27,World Health Organization,https://covid19.who.int/
+CYM,07-10-22,V24,World Health Organization,https://covid19.who.int/
+CYM,07-10-22,V25,World Health Organization,https://covid19.who.int/
+CAF,16-10-22,V16,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+CAF,16-10-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+TCD,02-10-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+CHL,26-10-22,V14,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19
+CHL,26-10-22,V22,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19
+CHL,26-10-22,V24,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19
+CHL,26-10-22,V25,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19
+CHL,26-10-22,V05,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19
+CHN,26-10-22,V14,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V01,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V02,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V27,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V04,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V05,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+CHN,26-10-22,V12,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202210/fe4d6c41b2514b82940deee987a32c19.shtml
+COL,21-10-22,V19,World Health Organization,https://covid19.who.int/
+COL,21-10-22,V22,World Health Organization,https://covid19.who.int/
+COL,21-10-22,V24,World Health Organization,https://covid19.who.int/
+COL,21-10-22,V25,World Health Organization,https://covid19.who.int/
+COL,21-10-22,V05,World Health Organization,https://covid19.who.int/
+COM,02-10-22,V16,World Health Organization,https://covid19.who.int/
+COM,02-10-22,V24,World Health Organization,https://covid19.who.int/
+COM,02-10-22,V27,World Health Organization,https://covid19.who.int/
+COG,31-07-22,V22,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+COG,31-07-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+COG,31-07-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+COG,31-07-22,V09,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+COK,06-06-22,V25,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+CRI,21-10-22,V22,Costa Rican Social Security Fund,https://covid19.who.int/
+CRI,21-10-22,V24,Costa Rican Social Security Fund,https://covid19.who.int/
+CRI,21-10-22,V25,Costa Rican Social Security Fund,https://covid19.who.int/
+CIV,18-09-22,V19,World Health Organization,https://covid19.who.int/
+CIV,18-09-22,V24,World Health Organization,https://covid19.who.int/
+CIV,18-09-22,V25,World Health Organization,https://covid19.who.int/
+CIV,18-09-22,V27,World Health Organization,https://covid19.who.int/
+CIV,18-09-22,V09,World Health Organization,https://covid19.who.int/
+HRV,25-10-22,V19,Ministry of Health,https://www.koronavirus.hr
+HRV,25-10-22,V22,Ministry of Health,https://www.koronavirus.hr
+HRV,25-10-22,V23,Ministry of Health,https://www.koronavirus.hr
+HRV,25-10-22,V24,Ministry of Health,https://www.koronavirus.hr
+HRV,25-10-22,V25,Ministry of Health,https://www.koronavirus.hr
+CUB,24-10-22,V13,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/
+CUB,24-10-22,V06,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/
+CUB,24-10-22,V07,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/
+CUW,25-10-22,V22,Government of Curacao,https://bakuna.cw/
+CUW,25-10-22,V25,Government of Curacao,https://bakuna.cw/
+CYP,27-09-22,V19,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CYP,27-09-22,V22,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CYP,27-09-22,V23,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CYP,27-09-22,V24,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CYP,27-09-22,V25,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+CZE,26-10-22,V19,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+CZE,26-10-22,V22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+CZE,26-10-22,V23,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+CZE,26-10-22,V24,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+CZE,26-10-22,V25,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+CZE,26-10-22,V05,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+COD,09-10-22,V24,World Health Organization,https://covid19.who.int/
+DNK,25-10-22,V19,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+DNK,25-10-22,V22,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+DNK,25-10-22,V25,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+DJI,20-10-22,V14,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V16,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V19,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V22,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V24,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V25,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V27,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V05,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V08,World Health Organization,https://covid19.who.int/
+DJI,20-10-22,V09,World Health Organization,https://covid19.who.int/
+DMA,07-10-22,V22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+DMA,07-10-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+DMA,07-10-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+DMA,07-10-22,V27,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+DOM,25-10-22,V24,Ministry of Public Health,https://vacunate.gob.do
+DOM,25-10-22,V25,Ministry of Public Health,https://vacunate.gob.do
+DOM,25-10-22,V27,Ministry of Public Health,https://vacunate.gob.do
+DOM,25-10-22,V05,Ministry of Public Health,https://vacunate.gob.do
+ECU,22-08-22,V14,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+ECU,22-08-22,V24,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+ECU,22-08-22,V25,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+ECU,22-08-22,V05,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+EGY,23-10-22,V14,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V16,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V19,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V22,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V24,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V25,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V27,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V05,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V08,World Health Organization,https://covid19.who.int/
+EGY,23-10-22,V09,World Health Organization,https://covid19.who.int/
+SLV,02-10-22,V24,Ministry of Health,https://covid19.gob.sv/
+SLV,02-10-22,V25,Ministry of Health,https://covid19.gob.sv/
+SLV,02-10-22,V27,Ministry of Health,https://covid19.gob.sv/
+SLV,02-10-22,V05,Ministry of Health,https://covid19.gob.sv/
+OWID_ENG,15-10-22,V22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_ENG,15-10-22,V24,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_ENG,15-10-22,V25,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+GNQ,24-07-22,V27,World Health Organization,https://covid19.who.int/
+GNQ,24-07-22,V05,World Health Organization,https://covid19.who.int/
+EST,24-10-22,V19,National Health Board,https://opendata.digilugu.ee
+EST,24-10-22,V22,National Health Board,https://opendata.digilugu.ee
+EST,24-10-22,V23,National Health Board,https://opendata.digilugu.ee
+EST,24-10-22,V24,National Health Board,https://opendata.digilugu.ee
+EST,24-10-22,V25,National Health Board,https://opendata.digilugu.ee
+SWZ,25-09-22,V19,World Health Organization,https://covid19.who.int/
+SWZ,25-09-22,V24,World Health Organization,https://covid19.who.int/
+SWZ,25-09-22,V25,World Health Organization,https://covid19.who.int/
+ETH,31-07-22,V16,World Health Organization,https://covid19.who.int/
+ETH,31-07-22,V19,World Health Organization,https://covid19.who.int/
+ETH,31-07-22,V24,World Health Organization,https://covid19.who.int/
+ETH,31-07-22,V27,World Health Organization,https://covid19.who.int/
+ETH,31-07-22,V05,World Health Organization,https://covid19.who.int/
+FRO,18-02-22,V22,Government of the Faeroe Islands,https://corona.fo/api
+FRO,18-02-22,V25,Government of the Faeroe Islands,https://corona.fo/api
+FLK,14-04-21,V24,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594
+FJI,24-10-22,V22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+FJI,24-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+FJI,24-10-22,V25,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+FIN,26-10-22,V22,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov
+FIN,26-10-22,V24,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov
+FIN,26-10-22,V25,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov
+FRA,25-10-22,V19,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+FRA,25-10-22,V22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+FRA,25-10-22,V23,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+FRA,25-10-22,V24,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+FRA,25-10-22,V25,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+PYF,17-10-22,V19,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+PYF,17-10-22,V25,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+GAB,18-09-22,V25,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GAB,18-09-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GAB,18-09-22,V09,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GMB,07-08-22,V19,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GMB,07-08-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GMB,07-08-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+GEO,13-10-22,V24,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/
+GEO,13-10-22,V25,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/
+GEO,13-10-22,V27,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/
+GEO,13-10-22,V05,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/
+DEU,26-10-22,V19,Robert Koch Institut,https://impfdashboard.de/
+DEU,26-10-22,V22,Robert Koch Institut,https://impfdashboard.de/
+DEU,26-10-22,V23,Robert Koch Institut,https://impfdashboard.de/
+DEU,26-10-22,V24,Robert Koch Institut,https://impfdashboard.de/
+DEU,26-10-22,V25,Robert Koch Institut,https://impfdashboard.de/
+DEU,26-10-22,V11,Robert Koch Institut,https://impfdashboard.de/
+GHA,09-10-22,V24,World Health Organization,https://covid19.who.int/
+GHA,09-10-22,V09,World Health Organization,https://covid19.who.int/
+GIB,21-04-22,V24,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1517138573614477315
+GIB,21-04-22,V25,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1517138573614477315
+GRC,26-10-22,V19,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRC,26-10-22,V22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRC,26-10-22,V23,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRC,26-10-22,V24,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRC,26-10-22,V25,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
+GRL,07-03-22,V22,Government of Greenland,https://corona.nun.gl
+GRD,30-09-22,V19,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GRD,30-09-22,V24,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GRD,30-09-22,V25,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GTM,21-10-22,V22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GTM,21-10-22,V24,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GTM,21-10-22,V25,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GTM,21-10-22,V09,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GGY,12-07-22,V22,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
+GGY,12-07-22,V24,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
+GGY,12-07-22,V25,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
+GIN,16-10-22,V19,National Health Security Agency,https://covid19.who.int/
+GIN,16-10-22,V24,National Health Security Agency,https://covid19.who.int/
+GIN,16-10-22,V25,National Health Security Agency,https://covid19.who.int/
+GIN,16-10-22,V27,National Health Security Agency,https://covid19.who.int/
+GIN,16-10-22,V05,National Health Security Agency,https://covid19.who.int/
+GIN,16-10-22,V09,National Health Security Agency,https://covid19.who.int/
+GNB,18-09-22,V24,World Health Organization,https://covid19.who.int/
+GNB,18-09-22,V27,World Health Organization,https://covid19.who.int/
+GUY,27-07-22,V19,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GUY,27-07-22,V22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GUY,27-07-22,V24,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GUY,27-07-22,V25,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GUY,27-07-22,V27,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+GUY,27-07-22,V09,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+HTI,14-10-22,V19,World Health Organization,https://covid19.who.int/
+HTI,14-10-22,V22,World Health Organization,https://covid19.who.int/
+HND,07-10-22,V19,World Health Organization,https://covid19.who.int/
+HND,07-10-22,V22,World Health Organization,https://covid19.who.int/
+HND,07-10-22,V24,World Health Organization,https://covid19.who.int/
+HND,07-10-22,V25,World Health Organization,https://covid19.who.int/
+HND,07-10-22,V09,World Health Organization,https://covid19.who.int/
+HKG,23-10-22,V25,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age
+HKG,23-10-22,V05,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age
+HUN,25-10-22,V19,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+HUN,25-10-22,V22,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+HUN,25-10-22,V24,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+HUN,25-10-22,V25,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+HUN,25-10-22,V27,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+HUN,25-10-22,V09,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-419-ezer-beoltott-9-023-az-uj-fertozott-es-elhunyt-140-beteg
+ISL,29-03-22,V19,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+ISL,29-03-22,V22,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+ISL,29-03-22,V24,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+ISL,29-03-22,V25,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+IND,26-10-22,V15,Government of India,https://dashboard.cowin.gov.in/
+IND,26-10-22,V16,Government of India,https://dashboard.cowin.gov.in/
+IND,26-10-22,V23,Government of India,https://dashboard.cowin.gov.in/
+IND,26-10-22,V24,Government of India,https://dashboard.cowin.gov.in/
+IND,26-10-22,V09,Government of India,https://dashboard.cowin.gov.in/
+IDN,24-10-22,V19,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V22,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V23,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V24,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V25,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V27,Government of Indonesia,https://covid19.who.int/
+IDN,24-10-22,V05,Government of Indonesia,https://covid19.who.int/
+IRN,23-10-22,V17,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V14,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V16,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V19,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V22,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V24,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V25,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V27,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V05,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V07,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V08,World Health Organization,https://covid19.who.int/
+IRN,23-10-22,V09,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V14,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V16,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V19,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V22,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V24,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V25,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V27,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V05,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V08,World Health Organization,https://covid19.who.int/
+IRQ,23-10-22,V09,World Health Organization,https://covid19.who.int/
+IRL,05-10-22,V19,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IRL,05-10-22,V22,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IRL,05-10-22,V23,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IRL,05-10-22,V24,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IRL,05-10-22,V25,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
+IMN,23-06-22,V22,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+IMN,23-06-22,V24,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+IMN,23-06-22,V25,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+ISR,26-10-22,V22,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+ISR,26-10-22,V25,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+ITA,26-10-22,V19,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+ITA,26-10-22,V22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+ITA,26-10-22,V23,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+ITA,26-10-22,V24,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+ITA,26-10-22,V25,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+JAM,10-10-22,V19,Ministry of Health,https://vaccination.moh.gov.jm
+JAM,10-10-22,V22,Ministry of Health,https://vaccination.moh.gov.jm
+JAM,10-10-22,V24,Ministry of Health,https://vaccination.moh.gov.jm
+JAM,10-10-22,V25,Ministry of Health,https://vaccination.moh.gov.jm
+JPN,25-10-22,V22,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+JPN,25-10-22,V23,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+JPN,25-10-22,V24,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+JPN,25-10-22,V25,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+JEY,16-10-22,V22,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+JEY,16-10-22,V24,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+JEY,16-10-22,V25,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+JOR,21-08-22,V14,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V16,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V19,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V22,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V24,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V25,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V27,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V05,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V08,World Health Organization,https://covid19.who.int/
+JOR,21-08-22,V09,World Health Organization,https://covid19.who.int/
+KAZ,26-10-22,V26,Government of Kazakhstan,https://www.coronavirus2020.kz/
+KAZ,26-10-22,V27,Government of Kazakhstan,https://www.coronavirus2020.kz/
+KAZ,26-10-22,V09,Government of Kazakhstan,https://www.coronavirus2020.kz/
+KEN,25-09-22,V19,World Health Organization,https://covid19.who.int/
+KEN,25-09-22,V22,World Health Organization,https://covid19.who.int/
+KEN,25-09-22,V24,World Health Organization,https://covid19.who.int/
+KEN,25-09-22,V25,World Health Organization,https://covid19.who.int/
+KEN,25-09-22,V27,World Health Organization,https://covid19.who.int/
+KIR,10-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+OWID_KOS,26-10-22,V24,Ministry of Health,https://msh.rks-gov.net/sq/statistikat-covid-19/
+OWID_KOS,26-10-22,V25,Ministry of Health,https://msh.rks-gov.net/sq/statistikat-covid-19/
+KWT,23-10-22,V14,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V16,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V19,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V22,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V24,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V25,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V27,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V05,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V08,World Health Organization,https://covid19.who.int/
+KWT,23-10-22,V09,World Health Organization,https://covid19.who.int/
+KGZ,26-10-22,V27,Ministry of Health,https://vc.emed.gov.kg/
+KGZ,26-10-22,V09,Ministry of Health,https://vc.emed.gov.kg/
+LAO,11-08-22,V19,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V24,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V25,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V27,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V05,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V08,World Health Organization,https://www.covid19.gov.la/index.php
+LAO,11-08-22,V09,World Health Organization,https://www.covid19.gov.la/index.php
+LVA,11-07-22,V19,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LVA,11-07-22,V22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LVA,11-07-22,V23,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LVA,11-07-22,V24,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LVA,11-07-22,V25,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+LBN,20-10-22,V14,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V16,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V19,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V22,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V24,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V25,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V27,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V05,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V08,World Health Organization,https://covid19.who.int/
+LBN,20-10-22,V09,World Health Organization,https://covid19.who.int/
+LSO,17-07-22,V19,World Health Organization,https://covid19.who.int/
+LSO,17-07-22,V24,World Health Organization,https://covid19.who.int/
+LSO,17-07-22,V27,World Health Organization,https://covid19.who.int/
+LBR,16-10-22,V24,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V14,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V16,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V19,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V22,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V24,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V25,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V27,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V05,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V08,World Health Organization,https://covid19.who.int/
+LBY,02-10-22,V09,World Health Organization,https://covid19.who.int/
+LIE,24-10-22,V19,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+LIE,24-10-22,V22,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+LIE,24-10-22,V23,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+LIE,24-10-22,V25,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+LTU,25-10-22,V19,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LTU,25-10-22,V22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LTU,25-10-22,V23,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LTU,25-10-22,V24,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LTU,25-10-22,V25,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+LUX,23-10-22,V19,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_
+LUX,23-10-22,V22,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_
+LUX,23-10-22,V23,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_
+LUX,23-10-22,V24,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_
+LUX,23-10-22,V25,Government of Luxembourg,https://data.public.lu/en/datasets/donnees-covid19/#_
+MAC,15-09-22,V25,Government of Macao,https://www.ssm.gov.mo/docs/19164/19164_7e53f06c68fc467d8e3e3374d09bcc1a_000_.pdf
+MAC,15-09-22,V27,Government of Macao,https://www.ssm.gov.mo/docs/19164/19164_7e53f06c68fc467d8e3e3374d09bcc1a_000_.pdf
+MDG,16-10-22,V19,World Health Organization,https://covid19.who.int/
+MDG,16-10-22,V24,World Health Organization,https://covid19.who.int/
+MDG,16-10-22,V27,World Health Organization,https://covid19.who.int/
+MWI,09-10-22,V19,World Health Organization,https://covid19.who.int/
+MWI,09-10-22,V24,World Health Organization,https://covid19.who.int/
+MYS,26-10-22,V14,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MYS,26-10-22,V24,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MYS,26-10-22,V25,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MYS,26-10-22,V27,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MYS,26-10-22,V05,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public
+MDV,17-10-22,V19,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V22,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V24,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V25,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V27,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V05,World Health Organization,https://covid19.who.int/
+MDV,17-10-22,V09,World Health Organization,https://covid19.who.int/
+MLI,16-10-22,V24,World Health Organization,https://covid19.who.int/
+MLT,25-10-22,V19,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+MLT,25-10-22,V22,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+MLT,25-10-22,V24,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+MLT,25-10-22,V25,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+MRT,09-10-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+MRT,09-10-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+MUS,09-10-22,V16,World Health Organization,https://covid19.who.int/
+MUS,09-10-22,V24,World Health Organization,https://covid19.who.int/
+MUS,09-10-22,V27,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V14,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V19,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V22,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V24,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V25,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V05,World Health Organization,https://covid19.who.int/
+MEX,07-10-22,V09,World Health Organization,https://covid19.who.int/
+MDA,18-09-22,V19,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V22,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V24,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V25,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V27,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V05,Ministry of Health,https://covid19.who.int/
+MDA,18-09-22,V09,Ministry of Health,https://covid19.who.int/
+MCO,21-12-21,V25,National Council,https://en.gouv.mc/Policy-Practice/Social-Affairs-and-Health/News/Minister-of-State-visits-those-working-to-combat-COVID
+MNG,18-05-22,V24,Ministry of Health via ikon.mn,https://ikon.mn/
+MNG,18-05-22,V25,Ministry of Health via ikon.mn,https://ikon.mn/
+MNG,18-05-22,V27,Ministry of Health via ikon.mn,https://ikon.mn/
+MNG,18-05-22,V09,Ministry of Health via ikon.mn,https://ikon.mn/
+MNE,26-08-22,V24,Government of Montenegro,https://www.covidodgovor.me/
+MNE,26-08-22,V25,Government of Montenegro,https://www.covidodgovor.me/
+MNE,26-08-22,V27,Government of Montenegro,https://www.covidodgovor.me/
+MNE,26-08-22,V09,Government of Montenegro,https://www.covidodgovor.me/
+MSR,07-10-22,V24,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V14,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V16,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V19,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V22,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V24,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V25,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V27,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V05,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V08,World Health Organization,https://covid19.who.int/
+MAR,24-10-22,V09,World Health Organization,https://covid19.who.int/
+MOZ,09-10-22,V19,World Health Organization,https://covid19.who.int/
+MOZ,09-10-22,V24,World Health Organization,https://covid19.who.int/
+MOZ,09-10-22,V27,World Health Organization,https://covid19.who.int/
+MMR,18-06-22,V24,World Health Organization,https://covid19.who.int/
+MMR,18-06-22,V27,World Health Organization,https://covid19.who.int/
+NAM,16-10-22,V19,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+NAM,16-10-22,V24,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+NAM,16-10-22,V25,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+NAM,16-10-22,V27,Africa Centres for Disease Control and Prevention,https://covid19.who.int/
+NRU,17-10-22,V24,World Health Organization,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+NPL,18-10-22,V16,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V19,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V22,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V24,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V25,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V27,World Health Organization,https://covid19.who.int/
+NPL,18-10-22,V09,World Health Organization,https://covid19.who.int/
+NLD,02-09-22,V19,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NLD,02-09-22,V22,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NLD,02-09-22,V23,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NLD,02-09-22,V24,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NLD,02-09-22,V25,"European CDC, via Marino van Zelst",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+NCL,24-10-22,V25,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+NZL,04-10-22,V23,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
+NZL,04-10-22,V24,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
+NZL,04-10-22,V25,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
+NIC,21-10-22,V13,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V19,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V24,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V25,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V07,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V08,World Health Organization,https://covid19.who.int/
+NIC,21-10-22,V09,World Health Organization,https://covid19.who.int/
+NER,16-10-22,V24,World Health Organization,https://covid19.who.int/
+NER,16-10-22,V27,World Health Organization,https://covid19.who.int/
+NGA,16-10-22,V24,World Health Organization,https://covid19.who.int/
+NIU,02-08-22,V25,SPC Public Health Division,https://covid19.who.int/
+MKD,09-10-22,V22,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V24,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V25,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V27,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V04,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V05,World Health Organization,https://covid19.who.int/
+MKD,09-10-22,V09,World Health Organization,https://covid19.who.int/
+OWID_CYN,26-11-21,V24,Ministry of Health,https://asi.saglik.gov.ct.tr/
+OWID_CYN,26-11-21,V25,Ministry of Health,https://asi.saglik.gov.ct.tr/
+OWID_CYN,26-11-21,V05,Ministry of Health,https://asi.saglik.gov.ct.tr/
+OWID_NIR,19-10-22,V22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_NIR,19-10-22,V24,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_NIR,19-10-22,V25,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+NOR,25-10-22,V22,Norwegian Institute of Public Health,https://github.com/folkehelseinstituttet/surveillance_data
+NOR,25-10-22,V25,Norwegian Institute of Public Health,https://github.com/folkehelseinstituttet/surveillance_data
+OMN,09-10-22,V14,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V16,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V19,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V22,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V24,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V25,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V27,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V05,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V08,World Health Organization,https://covid19.who.int/
+OMN,09-10-22,V09,World Health Organization,https://covid19.who.int/
+PAK,24-10-22,V14,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V16,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V22,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V24,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V25,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V27,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V05,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PAK,24-10-22,V09,National Command and Operation Centre,https://covid.gov.pk/vaccine-details
+PSE,18-10-22,V14,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V16,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V19,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V22,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V24,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V25,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V27,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V05,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V08,World Health Organization,https://covid19.who.int/
+PSE,18-10-22,V09,World Health Organization,https://covid19.who.int/
+PAN,14-10-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PAN,14-10-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PNG,24-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+PRY,21-10-22,V16,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V22,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V27,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V05,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PRY,21-10-22,V09,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+PER,22-10-22,V22,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+PER,22-10-22,V24,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+PER,22-10-22,V25,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+PER,22-10-22,V27,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+PHL,13-10-22,V16,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V19,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V22,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V23,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V24,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V25,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V27,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V05,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V08,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PHL,13-10-22,V09,Department of Health via ABS-CBN Investigative and Research Group,https://covid19.who.int/
+PCN,29-08-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+POL,25-10-22,V19,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+POL,25-10-22,V22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+POL,25-10-22,V23,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+POL,25-10-22,V24,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+POL,25-10-22,V25,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+PRT,21-10-22,V16,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V19,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V22,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V23,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V24,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V25,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V27,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+PRT,21-10-22,V05,World Health Organization,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+QAT,24-10-22,V14,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V16,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V19,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V22,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V24,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V25,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V27,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V05,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V08,Ministry of Public Health,https://covid19.who.int/
+QAT,24-10-22,V09,Ministry of Public Health,https://covid19.who.int/
+ROU,16-10-22,V19,Government of Romania via datelazi.ro,https://covid19.who.int/
+ROU,16-10-22,V22,Government of Romania via datelazi.ro,https://covid19.who.int/
+ROU,16-10-22,V24,Government of Romania via datelazi.ro,https://covid19.who.int/
+ROU,16-10-22,V25,Government of Romania via datelazi.ro,https://covid19.who.int/
+RUS,24-10-22,V18,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+RUS,24-10-22,V09,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+RWA,16-10-22,V19,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V22,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V24,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V25,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V27,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V05,World Health Organization,https://covid19.who.int/
+RWA,16-10-22,V09,World Health Organization,https://covid19.who.int/
+SHN,05-05-21,V24,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/
+KNA,05-08-22,V24,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+KNA,05-08-22,V25,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+LCA,14-10-22,V19,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+LCA,14-10-22,V22,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+LCA,14-10-22,V24,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+LCA,14-10-22,V25,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+VCT,21-10-22,V24,World Health Organization,https://covid19.who.int/
+VCT,21-10-22,V25,World Health Organization,https://covid19.who.int/
+VCT,21-10-22,V08,World Health Organization,https://covid19.who.int/
+VCT,21-10-22,V09,World Health Organization,https://covid19.who.int/
+WSM,17-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+SMR,22-05-22,V25,World Health Organization,https://covid19.who.int/
+SMR,22-05-22,V09,World Health Organization,https://covid19.who.int/
+STP,09-10-22,V24,World Health Organization,https://covid19.who.int/
+SAU,27-09-22,V24,Saudi Health Council,https://covid19.who.int/
+SAU,27-09-22,V25,Saudi Health Council,https://covid19.who.int/
+OWID_SCT,11-09-22,V22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_SCT,11-09-22,V24,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_SCT,11-09-22,V25,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+SEN,02-10-22,V19,World Health Organization,https://covid19.who.int/
+SEN,02-10-22,V24,World Health Organization,https://covid19.who.int/
+SEN,02-10-22,V27,World Health Organization,https://covid19.who.int/
+SRB,23-06-22,V24,Government of Serbia,https://vakcinacija.gov.rs/
+SRB,23-06-22,V25,Government of Serbia,https://vakcinacija.gov.rs/
+SRB,23-06-22,V27,Government of Serbia,https://vakcinacija.gov.rs/
+SRB,23-06-22,V09,Government of Serbia,https://vakcinacija.gov.rs/
+SYC,25-09-22,V24,World Health Organization,https://covid19.who.int/
+SYC,25-09-22,V27,World Health Organization,https://covid19.who.int/
+SYC,25-09-22,V09,World Health Organization,https://covid19.who.int/
+SLE,16-10-22,V24,World Health Organization,https://covid19.who.int/
+SLE,16-10-22,V27,World Health Organization,https://covid19.who.int/
+SGP,18-10-22,V22,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SGP,18-10-22,V23,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SGP,18-10-22,V25,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SGP,18-10-22,V27,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SGP,18-10-22,V05,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination
+SXM,07-10-22,V22,World Health Organization,https://covid19.who.int/
+SXM,07-10-22,V24,World Health Organization,https://covid19.who.int/
+SXM,07-10-22,V25,World Health Organization,https://covid19.who.int/
+SVK,31-07-22,V19,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVK,31-07-22,V22,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVK,31-07-22,V23,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVK,31-07-22,V24,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVK,31-07-22,V25,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVK,31-07-22,V09,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data/raw/main/Vaccination/OpenData_Slovakia_Vaccination_AgeGroup_District.csv
+SVN,06-07-22,V19,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SVN,06-07-22,V22,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SVN,06-07-22,V23,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SVN,06-07-22,V24,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SVN,06-07-22,V25,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats
+SLB,24-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+SOM,20-10-22,V14,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V16,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V19,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V22,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V24,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V25,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V27,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V05,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V08,World Health Organization,https://covid19.who.int/
+SOM,20-10-22,V09,World Health Organization,https://covid19.who.int/
+ZAF,26-10-22,V19,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/
+ZAF,26-10-22,V25,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/
+KOR,26-10-22,V19,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+KOR,26-10-22,V22,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+KOR,26-10-22,V23,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+KOR,26-10-22,V24,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+KOR,26-10-22,V25,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/
+SSD,16-10-22,V19,World Health Organization,https://covid19.who.int/
+SSD,16-10-22,V24,World Health Organization,https://covid19.who.int/
+ESP,13-10-22,V19,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20221014.ods
+ESP,13-10-22,V22,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20221014.ods
+ESP,13-10-22,V24,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20221014.ods
+ESP,13-10-22,V25,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20221014.ods
+LKA,19-10-22,V22,Ministry of Health's Epidemiology Unit,https://covid19.who.int/
+LKA,19-10-22,V24,Ministry of Health's Epidemiology Unit,https://covid19.who.int/
+LKA,19-10-22,V25,Ministry of Health's Epidemiology Unit,https://covid19.who.int/
+LKA,19-10-22,V27,Ministry of Health's Epidemiology Unit,https://covid19.who.int/
+LKA,19-10-22,V09,Ministry of Health's Epidemiology Unit,https://covid19.who.int/
+SDN,27-06-22,V14,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V16,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V19,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V22,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V24,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V25,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V27,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V05,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V08,World Health Organization,https://covid19.who.int/
+SDN,27-06-22,V09,World Health Organization,https://covid19.who.int/
+SUR,23-05-22,V24,Government of Suriname,https://laatjevaccineren.sr/
+SUR,23-05-22,V25,Government of Suriname,https://laatjevaccineren.sr/
+SUR,23-05-22,V27,Government of Suriname,https://laatjevaccineren.sr/
+SWE,20-10-22,V22,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/
+SWE,20-10-22,V23,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/
+SWE,20-10-22,V24,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/
+SWE,20-10-22,V25,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/
+CHE,24-10-22,V19,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH
+CHE,24-10-22,V22,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH
+CHE,24-10-22,V23,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH
+CHE,24-10-22,V25,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH
+SYR,16-10-22,V14,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V16,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V19,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V22,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V24,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V25,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V27,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V05,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V08,World Health Organization,https://covid19.who.int/
+SYR,16-10-22,V09,World Health Organization,https://covid19.who.int/
+TWN,26-10-22,V21,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TWN,26-10-22,V22,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TWN,26-10-22,V23,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TWN,26-10-22,V24,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TWN,26-10-22,V25,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+TJK,21-08-22,V22,World Health Organization,https://covid19.who.int/
+TJK,21-08-22,V24,World Health Organization,https://covid19.who.int/
+TJK,21-08-22,V25,World Health Organization,https://covid19.who.int/
+TJK,21-08-22,V05,World Health Organization,https://covid19.who.int/
+TJK,21-08-22,V09,World Health Organization,https://covid19.who.int/
+TZA,09-10-22,V19,World Health Organization,https://covid19.who.int/
+TZA,09-10-22,V25,World Health Organization,https://covid19.who.int/
+TZA,09-10-22,V27,World Health Organization,https://covid19.who.int/
+THA,30-09-22,V22,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+THA,30-09-22,V24,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+THA,30-09-22,V25,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+THA,30-09-22,V27,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+THA,30-09-22,V05,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/
+TLS,25-10-22,V24,World Health Organization,https://covid19.who.int/
+TLS,25-10-22,V25,World Health Organization,https://covid19.who.int/
+TLS,25-10-22,V05,World Health Organization,https://covid19.who.int/
+TGO,16-10-22,V24,World Health Organization,https://covid19.who.int/
+TKL,24-10-22,V25,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+TON,29-08-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+TTO,21-09-22,V19,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query
+TTO,21-09-22,V24,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query
+TTO,21-09-22,V25,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query
+TTO,21-09-22,V27,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query
+TUN,11-10-22,V14,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V16,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V19,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V22,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V24,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V25,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V27,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V05,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V08,World Health Organization,https://covid19.who.int/
+TUN,11-10-22,V09,World Health Organization,https://covid19.who.int/
+TUR,26-10-22,V25,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+TUR,26-10-22,V05,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+TUR,26-10-22,V10,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+TKM,04-09-22,V18,World Health Organization,https://covid19.who.int/
+TKM,04-09-22,V24,World Health Organization,https://covid19.who.int/
+TKM,04-09-22,V26,World Health Organization,https://covid19.who.int/
+TKM,04-09-22,V27,World Health Organization,https://covid19.who.int/
+TKM,04-09-22,V09,World Health Organization,https://covid19.who.int/
+TKM,04-09-22,V12,World Health Organization,https://covid19.who.int/
+TCA,12-08-22,V25,World Health Organization,https://covid19.who.int/
+TUV,31-08-22,V24,World Health Organization,https://covid19.who.int/
+UGA,09-10-22,V19,World Health Organization,https://covid19.who.int/
+UGA,09-10-22,V22,World Health Organization,https://covid19.who.int/
+UGA,09-10-22,V24,World Health Organization,https://covid19.who.int/
+UGA,09-10-22,V25,World Health Organization,https://covid19.who.int/
+UGA,09-10-22,V05,World Health Organization,https://covid19.who.int/
+UKR,27-02-22,V19,Ministry of Health,https://covid19.who.int/
+UKR,27-02-22,V22,Ministry of Health,https://covid19.who.int/
+UKR,27-02-22,V24,Ministry of Health,https://covid19.who.int/
+UKR,27-02-22,V25,Ministry of Health,https://covid19.who.int/
+UKR,27-02-22,V05,Ministry of Health,https://covid19.who.int/
+ARE,20-06-22,V14,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V16,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V19,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V22,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V24,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V25,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V27,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V05,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V08,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+ARE,20-06-22,V09,National Emergency Crisis and Disaster Management Authority,https://covid19.who.int/
+GBR,11-09-22,V22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+GBR,11-09-22,V24,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+GBR,11-09-22,V25,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+USA,18-10-22,V19,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+USA,18-10-22,V22,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+USA,18-10-22,V25,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+URY,26-10-22,V24,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/
+URY,26-10-22,V25,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/
+URY,26-10-22,V05,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/
+UZB,09-10-22,V22,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V24,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V25,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V05,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V08,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V09,World Health Organization,https://covid19.who.int/
+UZB,09-10-22,V12,World Health Organization,https://covid19.who.int/
+VUT,24-10-22,V24,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+VEN,25-03-22,V13,Pan American Health Organization,https://covid19.who.int/
+VEN,25-03-22,V27,Pan American Health Organization,https://covid19.who.int/
+VEN,25-03-22,V05,Pan American Health Organization,https://covid19.who.int/
+VEN,25-03-22,V07,Pan American Health Organization,https://covid19.who.int/
+VEN,25-03-22,V08,Pan American Health Organization,https://covid19.who.int/
+VEN,25-03-22,V09,Pan American Health Organization,https://covid19.who.int/
+VNM,06-10-22,V13,World Health Organization,https://covid19.who.int/
+VNM,06-10-22,V22,World Health Organization,https://covid19.who.int/
+VNM,06-10-22,V24,World Health Organization,https://covid19.who.int/
+VNM,06-10-22,V25,World Health Organization,https://covid19.who.int/
+VNM,06-10-22,V27,World Health Organization,https://covid19.who.int/
+VNM,06-10-22,V09,World Health Organization,https://covid19.who.int/
+OWID_WLS,12-10-22,V22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_WLS,12-10-22,V24,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+OWID_WLS,12-10-22,V25,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations
+WLF,17-10-22,V22,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+YEM,20-10-22,V14,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V16,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V19,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V22,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V24,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V25,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V27,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V05,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V08,World Health Organization,https://covid19.who.int/
+YEM,20-10-22,V09,World Health Organization,https://covid19.who.int/
+ZMB,25-10-22,V19,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
+ZMB,25-10-22,V24,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
+ZMB,25-10-22,V27,Government of Zambia,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
+ZWE,09-10-22,V24,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd
+ZWE,09-10-22,V27,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd
+ZWE,09-10-22,V05,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd
+ZWE,09-10-22,V09,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd
