@@ -41,7 +41,7 @@ The dataset used is inspired by the **Our World in Data COVID-19 Vaccination Dat
 ## 👥 Contributors
 
 - **Antony Rosario**\
-  LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+  LinkedIn: [Your Profile](www.linkedin.com/in/antony-rosario-john-peter-97578b16a)
 
 ## 🌟 Acknowledgements
 
